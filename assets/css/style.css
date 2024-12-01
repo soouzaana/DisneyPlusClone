@@ -3,5 +3,7 @@
 @import url(./base/global.css);
 @import url(./layout/header.css);
 @import url(./layout/nav-menu.css);
+@import url(./layout/user-menu.css);
 @import url(./components/logo.css);
+@import url(./components/user-profile.css);
 @import url(./base/animations.css);
