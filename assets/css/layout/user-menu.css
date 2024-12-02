@@ -65,7 +65,12 @@
   display: block;
 }
 
-@media screen and (max-width: 1024px){
+.user-men.active .show-hover,
+.user-men.active .user-profile__title{
+  display: block;
+}
+
+@media screen and (max-width: 1108px){
   .user-menu .user-profile__title{
     display: none;
   }
